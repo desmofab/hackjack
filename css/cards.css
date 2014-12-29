@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'Playing Cards';
+font-style: normal;
+font-weight: normal;
+src: local('Playing Cards'), url('../fonts/CARDS.woff') format('woff');
+}

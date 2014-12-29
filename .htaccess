@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "HackJack"
+AuthUserFile /var/www/html/hackjack/.htpasswd
+Require valid-user
