@@ -10,3 +10,4 @@
 ### Install ###
 
 * Play index.html
+* Drag & Drop cards
